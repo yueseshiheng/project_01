@@ -5,6 +5,7 @@ function person(sayname, name) {
   sayname(name);
 }
 person(sayname, "xxx");
+person(sayname, "xxx");
 
 person(sayname, "小美");
 
