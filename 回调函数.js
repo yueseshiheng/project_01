@@ -7,7 +7,6 @@ function person(sayname, name) {
 person(sayname, "xxx");
 person(sayname, "xxx");
 
-person(sayname, "小美");
 
 person(sayname, "xs");
 
