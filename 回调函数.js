@@ -7,7 +7,7 @@ function person(sayname, name) {
 person(sayname, "xxx");
 person(sayname, "xxx");
 
-person(sayname, "张三");
+person(sayname, "李四");
 person(sayname, "xs");
 
 gkfkgf
