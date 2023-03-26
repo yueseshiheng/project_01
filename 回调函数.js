@@ -4,6 +4,8 @@ function sayname(name) {
 function person(sayname, name) {
   sayname(name);
 }
+person(sayname, "xxx");
+
 person(sayname, "小美");
-person(sayname, "小美");
-person(sayname, "小美");
+
+person(sayname, "xs");
